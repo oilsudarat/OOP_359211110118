@@ -1,6 +1,6 @@
 package ooplab4;
 
-public class TestMethods {
+public class TestMethod {
     //global variable
     private static int number=10;
     //    Methods
