@@ -1,6 +1,8 @@
 package ooplab8;
 
-public class Circle implements Shape {
+import javafx.scene.shape.Shape;
+
+public class Circle implements Shape{
     private final double pi = 3.141;
     private double r;
 
